@@ -32,8 +32,7 @@ const FILTER_TYPE_VIEW =  Array('Configuration Change','Service Request','Produc
 
 //These settings are typically left as-is for standard deployments
 define ( 'APPTIVO_API_URL', 'https://api.apptivo.com' );
-define ( 'KB_APPID', '59' );
-define ( 'CA_APPID', '202115' );
+define ( 'CA_APPID', '59' );
 define ( 'XINNECT_TAG', 'acportal' );
 define ( 'CONTACT_OBJECT_ID', 2);
 define ( 'AWP_WEBSITE_URL', '/');
